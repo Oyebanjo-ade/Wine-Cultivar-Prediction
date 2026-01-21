@@ -24,9 +24,8 @@ Selected Features:
 
 
 DEPLOYMENT INFORMATION
-Live Application URL: [Your deployed app URL]
+Live Application URL: https://wine-cultivar-prediction-ww6dfareapvpf7xwdtwnju.streamlit.app/
 
-
-GitHub Repository: [Your GitHub repository URL]
+GitHub Repository:https://github.com/Oyebanjo-ade/Wine-Cultivar-Prediction
 
 
